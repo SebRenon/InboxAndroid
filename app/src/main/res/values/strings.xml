@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AndroidInbox</string>
+    <string name="inbox_item_request_label">Request to book</string>
+    <string name="inbox_item_starting_soon_label">Starting soon</string>
+    <string name="appointments">Appointments</string>
+    <string name="join_appointment">Join Appointment</string>
+    <string name="accept">Accept</string>
+    <string name="decline">Decline</string>
+    <string name="conversation_ended">This conversation has ended.</string>
+    <string name="appointment_starting">Your appointment with %s is starting in 5 mins.</string>
+    <string name="appointment_request">%s has requested an appointment on\n</string>
+</resources>
